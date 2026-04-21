@@ -1,1 +1,8 @@
-
+streamlit
+langchain
+langchain-community
+langchain-chroma
+langgraph
+dashscope
+PyYAML
+pypdf
